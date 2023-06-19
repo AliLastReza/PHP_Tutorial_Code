@@ -1,5 +1,5 @@
 <?php
-include "functions_S23/user-functions.php"
+include "functions/user-functions.php"
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -13,7 +13,7 @@ include "functions_S23/user-functions.php"
 
 <body>
     <ul>
-        <li><a href="index_S23_Include.php">Home</a></li>
+        <li><a href="index.php">Home</a></li>
         <li><a href="#">About</a></li>
-        <li><a href="contact_S23.php">Contact</a></li>
+        <li><a href="contact.php">Contact</a></li>
     </ul>

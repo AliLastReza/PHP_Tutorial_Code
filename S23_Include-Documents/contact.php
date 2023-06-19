@@ -1,5 +1,5 @@
 <?php
-include "header_S23.php";
+include "header.php";
 ?>
     <h1>Website Contact Info</h1>
     <p>
